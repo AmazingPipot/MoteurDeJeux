@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>cube.png</file>
+        <file>heightMap.pgm</file>
+        <file>heightMap2.pgm</file>
+        <file>paletteAltitue.png</file>
+        <file>NormalMap.png</file>
+    </qresource>
+</RCC>

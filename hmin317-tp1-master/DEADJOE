@@ -1,0 +1,24 @@
+
+*** These modified files were found in JOE when it aborted on Wed Oct 10 21:56:22 2018
+*** JOE was aborted because the terminal closed
+
+*** Fichier '(Sans nom)'
+/auto_home/qleroit/MOTEUR_DE_JEUX/hmin317-tp1-master/.git/COMMIT_EDITMSG
+
+*** Fichier '/auto_home/qleroit/MOTEUR_DE_JEUX/hmin317-tp1-master/.git/COMMIT_EDITMSG'
+
+# Veuillez saisir le message de validation pour vos modifications. Les lignes
+# commençant par '#' seront ignorées, et un message vide abandonne la validation.
+#
+# Validateur : qleroit <qleroit@prodpeda-x2go-bionic2.fdsetu.infra.umontpellier.fr>
+#
+# Sur la branche master
+# Votre branche est à jour avec 'origin/master'.
+#
+# Modifications qui seront validées :
+#	modifié :         main.cpp
+#
+
+*** Fichier '* Startup Log *'
+Traitement de '/etc/joe/editorrc'...Traitement de '/etc/joe/ftyperc'...Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
